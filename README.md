@@ -1,5 +1,5 @@
 ### Hi there, I'm Vili 👋
-[![Linkedin Badge](https://img.shields.io/badge/-oliveiratf-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vilineto/)](https://www.linkedin.com/in/vilineto/)
+[![Linkedin Badge](https://img.shields.io/badge/-vilineto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vilineto/)](https://www.linkedin.com/in/vilineto/)
 
 I'm Senior Development Manager at Conexia.
 
